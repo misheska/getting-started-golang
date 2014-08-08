@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/79a480a2c193e568a022a8f858b6fc19/m "wercker status")](https://app.wercker.com/project/bykey/79a480a2c193e568a022a8f858b6fc19)
+
 getting-started-golang
 ======================
 
